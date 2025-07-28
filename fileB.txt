@@ -1,0 +1,2 @@
+"Content of fileB" 
+dev-branch changes
