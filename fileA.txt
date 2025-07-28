@@ -1,0 +1,3 @@
+"Content of fileA" 
+changes from main
+dev-branch
